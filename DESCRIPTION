@@ -23,3 +23,5 @@ Imports:
     tibble,
     CATALYST,
     dplyr
+URL: https://github.com/nimayassini/gara
+BugReports: https://github.com/nimayassini/gara/issues
