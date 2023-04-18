@@ -1,19 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# gateRaid
+# gara
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of gateRaid is to allow FlowJo gatings to be used for easy
-preprocessing and for projections onto a UMAP when working with Flow
-Cytometry data.
+The goal of gara is to allow previously performed gating to be used for easy preprocessing and for projections onto a UMAP when working with Flow Cytometry data.
 
 ## Installation
 
-You can install the development version of gateRaid like so:
+You can install the development version of gara like so:
 
 ``` r
-devtools::install_github("nimayassini/gateRaid")
+remotes::install_github("nimayassini/gara")
 ```
